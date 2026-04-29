@@ -1,2 +1,15 @@
 # daylight.qgisplugins
 Here is a repo for my QGIS plugins
+
+name=Copy Fields Tool
+qgisMinimumVersion=3.0
+description=Copies missing fields from a template layer to a target layer.
+version=1.0
+author=Emmanuel Nkrumah Mensah
+email= enmensah27@gmail.com
+about=A simple tool to append fields from one layer to another without overwriting.
+category=Vector
+repository=https://github.com/enmensah27-daylight/daylight.qgisplugins
+tracker=https://github.com/enmensah27-daylight/daylight.qgisplugins/issues
+hasProcessingProvider=False
+homepage=https://github.com/enmensah27-daylight/daylight.qgisplugins
