@@ -1,0 +1,12 @@
+[general]
+name=Copy Fields Tool
+qgisMinimumVersion=3.0
+description=Copies missing fields from a template layer to a target layer.
+version=1.0
+author=Emmanuel Nkrumah Mensah
+email= enmensah27@gmail.com
+about=A simple tool to append fields from one layer to another without overwriting.
+category=Vector
+repository=
+tracker=
+hasProcessingProvider=False
