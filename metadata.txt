@@ -10,4 +10,4 @@ category=Vector
 repository=https://github.com/enmensah27-daylight/daylight.qgisplugins
 tracker=https://github.com/enmensah27-daylight/daylight.qgisplugins/issues
 hasProcessingProvider=False
-homepage=https://github.com/enmensah27-daylight/daylight.qgisplugins
+homepage=https://github.com/enmensah27-daylight/daylight.qgisplugins/blob/main/README.md
